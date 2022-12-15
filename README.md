@@ -7,6 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=emjeepro&theme=onedark&row=1&column=8&margin-w=3&margin-h=3)](https://github.com/ryo-ma/github-profile-trophy)
 --->
 
+<!---
 - 🔭 I’m currently working on:
 - 🌱 I’m currently learning:
 - 👯 I’m looking to collaborate on:
@@ -14,7 +15,7 @@
 - 💬 Ask me about:
 - 📄 Know about my experience:
 - ⚡ Fun fact:
-
+--->
 
 <!---
 <h3 align="left">Connect with me:</h3>
@@ -24,10 +25,8 @@
 </p>
 --->
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  
   <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;
 
@@ -129,7 +128,6 @@
   
   <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></a>&nbsp;
-
 </p>
 
 <!---
