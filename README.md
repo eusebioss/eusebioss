@@ -1,4 +1,4 @@
-<h1 align="center">Hello, world! 👋<br>I'm <img src="https://i0.wp.com/aromacorners.com/wp-content/uploads/2019/12/momen-gola.png"></h1>
+<h1 align="center"><img src="https://i0.wp.com/aromacorners.com/wp-content/uploads/2019/12/momen-gola.png"></h1>
 <h3 align="center">Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emjeepro&label=Profile%20views&color=0e75b6&style=flat" alt="emjeepro" /> </p>
