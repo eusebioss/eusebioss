@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emjeepro&label=Profile%20views&color=0e75b6&style=flat" alt="emjeepro" /> </p>
 
+<!---
 [![trophy](https://github-profile-trophy.vercel.app/?username=emjeepro&theme=onedark&row=1&column=8&margin-w=3&margin-h=3)](https://github.com/ryo-ma/github-profile-trophy)
+--->
 
 - 🔭 I’m currently working on:
 - 🌱 I’m currently learning:
@@ -17,8 +19,8 @@
 <!---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emjeepro" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="emjeepro" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="#" alt="emjeepro" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="#" alt="emjeepro" height="30" width="40" /></a>
 </p>
 --->
 
