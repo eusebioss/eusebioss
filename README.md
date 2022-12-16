@@ -10,7 +10,9 @@
 --->
 <h3 align="left">Top Repositories:</h3>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emjeepro&repo=Statistical-methods-of-data-analysis)](https://github.com/emjeepro/Statistical-methods-of-data-analysis)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emjeepro&repo=Statistical-methods-of-data-analysis)](https://github.com/emjeepro/Statistical-methods-of-data-analysis)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emjeepro&repo=Statistical-methods-of-data-analysis)](https://github.com/emjeepro/Statistical-methods-of-data-analysis)
 
 <!---
