@@ -138,6 +138,7 @@
 <!---
   icons from: https://devicon.dev/
 --->
+<h3 align="left">GitHub Stats:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emjeepro&layout=compact)](https://github.com/emjeepro/github-readme-stats)
 
