@@ -7,6 +7,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=emjeepro&theme=onedark&row=1&column=8&margin-w=3&margin-h=3)](https://github.com/ryo-ma/github-profile-trophy)
 --->
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emjeepro&repo=Statistical-methods-of-data-analysis)](https://github.com/emjeepro/Statistical-methods-of-data-analysis)
+
 <!---
 - 🔭 I’m currently working on:
 - 🌱 I’m currently learning:
@@ -134,7 +136,7 @@
   icons from: https://devicon.dev/
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emjeepro&langs_count=5)](https://github.com/emjeepro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emjeepro&layout=compact)](https://github.com/emjeepro/github-readme-stats)
 
 <p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=emjeepro&show_icons=true&hide=contribs,prs&locale=en" alt="emjeepro" /></p>
 <br>
