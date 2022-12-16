@@ -134,8 +134,9 @@
   icons from: https://devicon.dev/
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emjeepro&layout=compact&align=center)](https://github.com/emjeepro/github-readme-stats)
-<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=emjeepro&show_icons=true&locale=en" alt="emjeepro" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emjeepro&langs_count=5)](https://github.com/emjeepro/github-readme-stats)
+
+<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=emjeepro&show_icons=true&hide=contribs,prs&locale=en" alt="emjeepro" /></p>
 <br>
 <p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=emjeepro&" alt="emjeepro" /></p>
 
