@@ -7,13 +7,13 @@
 
 <!---
 [![trophy](https://github-profile-trophy.vercel.app/?username=emjeepro&theme=onedark&row=1&column=8&margin-w=3&margin-h=3)](https://github.com/ryo-ma/github-profile-trophy)
---->
+
 <h3 align="left">Top Repositories:</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emjeepro&repo=Statistical-methods-of-data-analysis)](https://github.com/emjeepro/Statistical-methods-of-data-analysis)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emjeepro&repo=Data-preprocessing-methods)](https://github.com/emjeepro/Data-preprocessing-methods)
-
+--->
 <!---
 - 🔭 I’m currently working on:
 - 🌱 I’m currently learning:
