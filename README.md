@@ -142,7 +142,7 @@
 --->
 <h3 align="left">GitHub Stats:</h3>
 
-<a href="https://github.com/emjeepro"><img src=“contributions.svg”></a>
+<a href="https://github.com/emjeepro"><img src="contributions.svg"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emjeepro&layout=compact)](https://github.com/emjeepro)
 
