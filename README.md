@@ -1,10 +1,10 @@
 <!---
 <p align="left"><img src="https://komarev.com/ghpvc/?username=emjeepro&label=Profile%20views&color=0e75b6&style=flat" alt="emjeepro" /></p>
---->
+
 
 <h1 align="center"><img src="https://i.ibb.co/wSvNgjr/mg-logo.png"></h1>
 <h3 align="center">Computer Science Student</h3>
-
+--->
 <!---
 [![trophy](https://github-profile-trophy.vercel.app/?username=emjeepro&theme=onedark&row=1&column=8&margin-w=3&margin-h=3)](https://github.com/ryo-ma/github-profile-trophy)
 
