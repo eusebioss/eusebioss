@@ -4,8 +4,8 @@
 
 <h1 align="center"><img src="https://i.ibb.co/wSvNgjr/mg-logo.png"></h1>
 <h3 align="center">Computer Science Student</h3>
---->
-<!---
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=emjeepro&theme=onedark&row=1&column=8&margin-w=3&margin-h=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Top Repositories:</h3>
@@ -13,8 +13,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emjeepro&repo=Statistical-methods-of-data-analysis)](https://github.com/emjeepro/Statistical-methods-of-data-analysis)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emjeepro&repo=Data-preprocessing-methods)](https://github.com/emjeepro/Data-preprocessing-methods)
---->
-<!---
+
+
 - 🔭 I’m currently working on:
 - 🌱 I’m currently learning:
 - 👯 I’m looking to collaborate on:
@@ -22,15 +22,15 @@
 - 💬 Ask me about:
 - 📄 Know about my experience:
 - ⚡ Fun fact:
---->
 
-<!---
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="#" target="blank"><img align="center" src="#" alt="emjeepro" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="#" alt="emjeepro" height="30" width="40" /></a>
 </p>
---->
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -137,9 +137,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></a>&nbsp;
 </p>
 
-<!---
   icons from: https://devicon.dev/
---->
+
 <h3 align="left">GitHub Stats:</h3>
 
 <a href="https://github.com/emjeepro"><img src="contributions.svg"></a>
@@ -150,7 +149,7 @@
 <br>
 <p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=emjeepro&" alt="emjeepro" /></p>
 
-<!---
+
 emjeepro/emjeepro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
