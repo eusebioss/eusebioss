@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://i.ibb.co/wSvNgjr/mg-logo.png"></h1>
-<h3 align="center">tech−focused</h3>
+<p align="center"><img src="https://i.ibb.co/wSvNgjr/mg-logo.png"></p>
+<p align="center">tech-focused</p>
 <br><br>
 <p align="center">
   
