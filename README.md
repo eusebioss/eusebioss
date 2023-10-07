@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://i.ibb.co/wSvNgjr/mg-logo.png"></h1>
+<h1 align="center"><img src="https://i.ibb.co/VNdQ6Tc/logo.png"></h1>
 <!--- https://i.ibb.co/5R0t7d8/eusebioss.png --->
 <p align="center">tech-focused</p>
 <br><br>
