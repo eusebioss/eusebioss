@@ -1,7 +1,7 @@
-<h1 align="center"><img src="https://i.ibb.co/N2Gj5Rn/eusebioss.png"></h1>
+<h1 align="center"><img src="https://i.ibb.co/YQCMqdK/logo.png"></h1>
 
 <!--- MOGO LOGO https://i.ibb.co/VNdQ6Tc/logo.png --->
-<!--- EUBS LOGO https://i.ibb.co/N2Gj5Rn/eusebioss.png --->
+<!--- EUBS LOGO https://i.ibb.co/YQCMqdK/logo.png --->
 
 <p align="center">techie</p>
 <br><br>
