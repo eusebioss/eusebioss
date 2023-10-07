@@ -1,6 +1,9 @@
-<h1 align="center"><img src="https://i.ibb.co/VNdQ6Tc/logo.png"></h1>
-<!--- https://i.ibb.co/5R0t7d8/eusebioss.png --->
-<p align="center">tech-focused</p>
+<h1 align="center"><img src="https://i.ibb.co/N2Gj5Rn/eusebioss.png"></h1>
+
+<!--- MOGO LOGO https://i.ibb.co/VNdQ6Tc/logo.png --->
+<!--- EUBS LOGO https://i.ibb.co/N2Gj5Rn/eusebioss.png --->
+
+<p align="center">techie</p>
 <br><br>
 <p align="center">
   
