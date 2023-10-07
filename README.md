@@ -2,8 +2,7 @@
 
 <!--- MOGO LOGO https://i.ibb.co/VNdQ6Tc/logo.png --->
 <!--- EUBS LOGO https://i.ibb.co/YQCMqdK/logo.png --->
-
-<p align="center">techie</p>
+<!--- <p align="center">techie</p> --->
 <br><br>
 <p align="center">
   
