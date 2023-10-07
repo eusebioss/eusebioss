@@ -3,7 +3,7 @@
 <!--- MOGO LOGO https://i.ibb.co/VNdQ6Tc/logo.png --->
 <!--- EUBS LOGO https://i.ibb.co/YQCMqdK/logo.png --->
 <!--- <p align="center">techie</p> --->
-<br><br>
+<br>
 <p align="center">
   
   <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank" rel="noreferrer"> 
